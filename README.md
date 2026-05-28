@@ -1,0 +1,2 @@
+# Biological_Data_Exploration_and_Cleaning_with_Pandas
+Practiced essential data manipulation and exploration skills using a bacteria dataset
